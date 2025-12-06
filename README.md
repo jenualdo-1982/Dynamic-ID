@@ -7,3 +7,4 @@
 ```bash
 pip install -r requirements.txt
 pytest -v
+allure serve reports
